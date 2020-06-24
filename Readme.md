@@ -22,11 +22,11 @@ Create a Caesar object and use the methods of the Caesar class to encrypt or dec
 ## Usage:
 
 Example : 
-----
+
 c = Caesar(3)
 print(c.encrypt("hello world"))   # returns 'khoor zruog'
 print(c.decrypt("khoor zruog"))   # returns 'hello world'
-----
+
 
 
 #### LIMITATIONS :
