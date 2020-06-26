@@ -32,3 +32,5 @@ print(c.decrypt("khoor zruog"))   # returns 'hello world'
 #### LIMITATIONS :
 
 Only encrypts alphabetic characters and numbers.  Special characters are displayed as is.
+
+Licensed under [MIT License](LICENSE)
